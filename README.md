@@ -1,3 +1,7 @@
+# Link for the deployed app
+
+https://tender-johnson-4eb9df.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
