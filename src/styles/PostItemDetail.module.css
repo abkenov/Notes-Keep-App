@@ -1,0 +1,23 @@
+.container {
+	width: 800px;
+	margin: 50px auto;
+}
+
+.text {
+	min-height: 150px;
+	word-wrap: break-word;
+}
+
+h2 {
+	margin: 10px 0;
+}
+
+.note {
+	margin: 10px 0;
+}
+
+.date {
+	margin: 5px 0;
+	font-size: 13px;
+	float: right;
+}

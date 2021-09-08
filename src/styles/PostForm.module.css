@@ -1,0 +1,58 @@
+.form {
+	box-shadow: 0 3px 5px rgb(0 0 0 / 20%);
+	background-color: #fff;
+	border-color: #e0e0e0;
+	border-radius: 8px;
+	min-height: 150px;
+	max-width: 800px;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.formButton {
+	background: white;
+	color: black;
+	font-weight: 300;
+	font-size: 16px;
+	margin-bottom: 15px;
+}
+
+.subjectInput {
+	font-size: 20px;
+	font-weight: 600;
+	width: 100%;
+	padding: 5px 15px;
+	margin: 15px 0;
+	border-radius: 3px;
+	border: none;
+	outline: none;
+	background-color: white;
+	color: black;
+}
+
+.noteInput {
+	font-size: 16px;
+	width: 100%;
+	padding: 5px 15px;
+	margin: 5px 0;
+	border-radius: 3px;
+	border: none;
+	outline: none;
+	background-color: white;
+	color: black;
+	height: 100px;
+	resize: none;
+	overflow: hidden;
+	white-space: pre-line;
+}
+
+input::placeholder {
+	color: grey;
+}
+
+input select,
+textarea {
+	color: black;
+}
