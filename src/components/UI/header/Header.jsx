@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <header className={classes.header}>
       <div className={classes.logo}>
-        <a href=''>LOGO</a>
+        <a href='/'>LOGO</a>
       </div>
       <div className={classes.headerRight}>
         <button>settings</button>
